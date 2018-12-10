@@ -493,4 +493,4 @@ Copyright © [MetaMagic Global Inc](http://www.metamagicglobal.com/), 2017-18. [
 
 Licensed under the [Apache 2.0](http://www.amexio.org/metamagic-showcase/license.html)  License.
 
-**Enjoy!**
+**End!**
